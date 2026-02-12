@@ -1,1 +1,1 @@
-database_name = "sql-demo"
+database_name = "sqlal-demo"
